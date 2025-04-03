@@ -15,7 +15,7 @@
 Here are few profiles you may be interested to stalk
 
 
-![deuterium's github](https://github-readme-stats.vercel.app/api?username=akshatsrivastava11&show_icons=true&hide_border=true)
+![akshat's github](https://github-readme-stats.vercel.app/api?username=akshatsrivastava11&show_icons=true&hide_border=true)
 
 <p align="center">
  <a href="mailto:akshatsri1108@gmail.com"><img src="https://github.com/akshatsrivastava11/akshatsrivastava11/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
