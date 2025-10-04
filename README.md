@@ -5,6 +5,7 @@
 </p>
 
 ### 📫 Reach Out
-- 🐦 X (Twitter): [x.com/akshonite](https://x.com/akshonite)  
+- X : [x.com/akshonite](https://x.com/akshonite)
+- Discord : akshonite / [435317590940712962]  
 ---
 
