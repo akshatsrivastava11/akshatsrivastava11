@@ -1,11 +1,14 @@
-<h1 align="center">Hello there :)</h1>
+<div align="center">
+  <h1>Hello there :)</h1>
+</div>
 
-<p >
-  <img src="https://github.com/user-attachments/assets/42aa4c7e-2420-4735-a11f-f5cb16b7b3d2" alt="Anime GIF" width="400"/>
-</p>
+  <img src="https://github.com/user-attachments/assets/42aa4c7e-2420-4735-a11f-f5cb16b7b3d2" alt="Banner" width="450"/>
+<br>
 
-### 📫 Reach Out
-- X : [x.com/akshonite](https://x.com/akshonite)
-- Discord : akshonite / [435317590940712962]  
----
+<div align="center">
+  
+<h2>📫 Reach Out</h2>
 
+[X](https://x.com/akshonite) • [Discord](https://discord.com/users/435317590940712962) 
+
+</div>
