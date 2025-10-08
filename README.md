@@ -1,11 +1,11 @@
-<div align="center">
+<div>
   <h1>Hello there :)</h1>
 </div>
 
   <img src="https://github.com/user-attachments/assets/42aa4c7e-2420-4735-a11f-f5cb16b7b3d2" alt="Banner" width="450"/>
 <br>
 
-<div align="center">
+<div>
   
 <h2>📫 Reach Out</h2>
 
